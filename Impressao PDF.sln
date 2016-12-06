@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impressao PDF", "Impressao PDF\Impressao PDF.csproj", "{BCBF737B-24E3-4307-8364-1BB3B15C2D54}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Impressao de PDFs", "Impressao de PDFs\Impressao de PDFs.vdproj", "{C96D23DD-49AF-4BE9-8482-08399E7CEA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCBF737B-24E3-4307-8364-1BB3B15C2D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBF737B-24E3-4307-8364-1BB3B15C2D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBF737B-24E3-4307-8364-1BB3B15C2D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBF737B-24E3-4307-8364-1BB3B15C2D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96D23DD-49AF-4BE9-8482-08399E7CEA76}.Debug|Any CPU.ActiveCfg = Debug
+		{C96D23DD-49AF-4BE9-8482-08399E7CEA76}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
